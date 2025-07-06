@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @pepf0
-- I’m interested in Game Developement
+- I’m interested in Software and Game Developement
 - I’m currently learning C#
 - Discord: @pepf9
